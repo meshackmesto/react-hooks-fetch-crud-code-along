@@ -35,6 +35,42 @@
       "name": "Cookies",
       "category": "Dessert",
       "isInCart": false
+    },
+    {
+      "name": "mesto",
+      "category": "Dessert",
+      "isInCart": false,
+      "id": 13
+    },
+    {
+      "name": "banana",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 14
+    },
+    {
+      "name": "Apple",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 16
+    },
+    {
+      "name": "mango",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 17
+    },
+    {
+      "name": "fresha",
+      "category": "Dairy",
+      "isInCart": false,
+      "id": 18
+    },
+    {
+      "name": "peas",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 19
     }
   ]
 }
